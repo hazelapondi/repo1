@@ -1,1 +1,3 @@
 This is my first file on git. And I have a github account!
+THis is a bug!
+And now a third line(still nonsensicall)
